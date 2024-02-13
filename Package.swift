@@ -27,7 +27,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/SwiftCommon/DataKit.git", from: "1.1.0"),
-        .package(url: "https://github.com/gematik/ASN1Kit.git", from: "1.2.0"),
+        .package(url: "https://github.com/lsh-silpion/ASN1Kit", from: "1.2.3"),
         .package(url: "https://github.com/gematik/OpenSSL-Swift", from: "4.1.0"),
         .package(url: "https://github.com/gematik/ref-GemCommonsKit", from: "1.3.0"),
     ],

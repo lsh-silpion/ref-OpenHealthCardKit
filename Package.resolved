@@ -3,10 +3,10 @@
     {
       "identity" : "asn1kit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/gematik/ASN1Kit.git",
+      "location" : "https://github.com/lsh-silpion/asn1kit.git",
       "state" : {
-        "revision" : "605113f951fd31c083e66e3197309f42b968d800",
-        "version" : "1.2.1"
+        "revision" : "434fe0f633d1f849096b0b32b2fd0763102b0f28",
+        "version" : "1.2.3"
       }
     },
     {

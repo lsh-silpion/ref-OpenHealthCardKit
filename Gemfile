@@ -1,10 +1,10 @@
 source "https://rubygems.org"
 
-ruby "3.1.2"
+ruby "~>3.1.4"
 
-gem "fastlane", "~>2.213"
-gem "jazzy", "~>0.13"
-gem "xcodeproj", "~>1.7"
+gem "fastlane", "~>2.219"
+gem "jazzy", "~>0.14"
+gem "xcodeproj", "~>1.24"
 gem "xcode-install", "~> 2.6.6"
 gem "asciidoctor-reducer" 
 
