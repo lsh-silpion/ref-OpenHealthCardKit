@@ -5,7 +5,7 @@ include:
     # Set environment variable to true if have access to the necessary gematik-internal resources
     enable: ${GEMATIK_DEVELOPMENT} # <-- do not edit this line
 options:
-  bundleIdPrefix: de.gematik.ti.ohcapp4ios
+  bundleIdPrefix: de.silpion.ti.ohcapp4ios
   deploymentTarget:
     macOS: 10.15
     iOS: 14.0
@@ -75,7 +75,7 @@ packages:
     majorVersion: 0.3.0   
 settings:
   base:
-    DEVELOPMENT_TEAM: A9FL89PFFL
+    DEVELOPMENT_TEAM: 67X5G8WXSG
     CODE_SIGN_IDENTITY: ""
     SWIFT_VERSION: 5.0
     ALWAYS_SEARCH_USER_PATHS: NO
