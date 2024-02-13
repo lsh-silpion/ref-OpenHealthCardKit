@@ -1,3 +1,14 @@
+# Release 5.5.0
+
+## Added
+
+- Extend HealthCardControl API to offer structured concurrency endpoints (more to come)
+
+## Fixed
+
+- Fix AID of EgkFileSystem.DF.HCA
+- Fix wrong PIN input length for Change-Pin use case
+
 # Release 5.4.0
 
 ## Changed
